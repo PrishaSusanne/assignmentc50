@@ -22,3 +22,11 @@ p,h2 {
     display:flex;
     justify-content: flex-end;
 }
+
+body {
+    background-color: #008b;
+}
+
+.school {
+    background-color: #9932cc;
+}
